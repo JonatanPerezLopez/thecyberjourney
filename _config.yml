@@ -25,8 +25,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   from the most basic commands to the most difficult techniques.
 baseurl: "/thecyberjourney" # the subpath of your site, e.g. /blog
 url: "https://jonatanperezlopez.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: TheCyberJourney
-github_username:  TheCyberJourney
+#twitter_username: TheCyberJourney
+github_username:  JonatanPerezLopez
+linkedin_username: jonatan-perez-lopez
+
+# other settings not added by default
+author: Jonatan Pérez
 
 # Build settings
 theme: minima
