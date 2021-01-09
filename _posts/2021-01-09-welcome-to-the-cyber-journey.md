@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to 'The Cyber Journey'!"
-date:   2021-01-05 19:28:31 +0100
+date:   2021-01-09 19:28:31 +0100
 categories: jekyll update
 ---
 ## Hello Cyber world!
